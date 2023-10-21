@@ -1,0 +1,17 @@
+#############################
+# Autor: JavierS084
+############################
+
+# Windows Update
+0.0.0.0 mp.microsoft.com
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 au.download.windowsupdate.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 wu.microsoft.com
+0.0.0.0 windowsupdate.microsoft.net
+0.0.0.0 update.microsoft.net
+0.0.0.0 www.catalog.update.microsoft.com
+0.0.0.0 preview.update.microsoft.com
+0.0.0.0 wlc.update.microsoft.com
